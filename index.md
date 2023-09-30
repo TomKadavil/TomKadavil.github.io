@@ -30,6 +30,16 @@
 
 ---
 
+[algorithimic trading](algorithimic_trading/algorithimic_trading)
+
+*more mind maps for algorithimic trading*
+
+<img src="images/algorithmic_trading.png?raw=true" width="50"/>
+
+---
+
+
+
 ### Side projects and hobbies
 
 - [back testing and algorithimic trading ](http://example.com/)
