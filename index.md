@@ -16,14 +16,22 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Python showdown](/python)
+<img src="images/python.png?raw=true"/>
 
-### Category Name 2
+---
+[Stock Market](/stock_market)
+<img src="images/stock_market.avif?raw=true"/>
+
+---
+[Back testing](/back_testing)
+<img src="images/back_testing.png?raw=true"/>
+
+---
+
+### Side projects and hobbies
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
