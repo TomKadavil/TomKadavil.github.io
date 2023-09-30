@@ -45,6 +45,9 @@ This is a ppt i made for a AI seminar at CA articleship
 ### Side projects and hobbies
 
 - [back testing and algorithimic trading ](http://example.com/)
+- farming
+- wood working 
+- praying
 
 ---
 
