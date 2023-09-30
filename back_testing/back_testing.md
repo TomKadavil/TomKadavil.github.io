@@ -25,4 +25,6 @@ We employ statistical modelling such as
 
 Recently with the advent of Neural Networks and deep learning . I came accross a couple of papers that seem to indicate the use of such kind of techniques to be employed in the purpose of predictions .
 
-    - 
+Deep learning is involved a lot in the modern quantitive financial field. The recurrent neural network, to be specific, the Long Short Term Memory(LSTM) network outperforms others architecture since it can take advantage of predicting time series (or sequentially) involved result with a specific configuration.
+
+    - https://jfin-swufe.springeropen.com/articles/10.1186/s40854-019-0131-7
