@@ -1,6 +1,19 @@
-## Portfolio
+## My Portfolio
 
 ---
+
+### WORK EXPERIENCE 
+
+- Infosys, Thiruvananthapuram as a Test Engineer
+- CA  preparation course 
+    Completed 3 years of mandatory articleship for CA at 
+
+- Sanu Joseph & Associates, Pala. one year of experience .
+
+    - Handled statutory audits for healthcare sector 
+    - internal audit for food processing and export industry.
+    - Have completed inventory management and inventory level setting for a hospital.
+
 
 ### My blogs
 
