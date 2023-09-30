@@ -35,6 +35,8 @@
 ---
 
 [Seminar-AI-Final](/pdf/Seminar-AI-Final.pdf)
+
+This is a ppt i made for a AI seminar at CA articleship
 <img src="images/seminar.jpeg?raw=true"  width="50"/>
 
 ---
