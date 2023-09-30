@@ -4,14 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 
 ---
 [Python showdown](/python)
@@ -31,6 +25,7 @@
 [Back testing](/back_testing)
 
 *How i approach back testing*
+
 <img src="images/back_testing.png?raw=true" width="50"/>
 
 ---
