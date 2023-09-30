@@ -24,8 +24,9 @@ hosted by the trading platform.
 
 - **The autocovariance function (ACF)** is a very useful statistical tool for studying the dependence properties of a time series. The ACF is our formal tool for detecting non-stationarity in a time series. Plotting and visualizing the correlation structure of the series is the second step after plotting and visualizing the series itself.
 
-        ![](autocorrelation_FFT.jpeg)
-        ![](autocorrelation_DTFT.png)
+![](autocorrelation_FFT.jpeg)
+
+![](autocorrelation_DTFT.png)
 
 ## Neural nets for predictions 
 
@@ -33,8 +34,8 @@ Recently with the advent of Neural Networks and deep learning . I came accross a
 
 Deep learning is involved a lot in the modern quantitive financial field. The recurrent neural network, to be specific, the Long Short Term Memory(LSTM) network outperforms others architecture since it can take advantage of predicting time series (or sequentially) involved result with a specific configuration.
 
-    a simple RNN with 2 LSTM layers. The architecture is:
+#### A simple RNN with 2 LSTM layers. The architecture is:
 
     *LSTM --> Dropout --> LSTM --> Dropout --> Fully-Conneted(Dense)*
 
-    - https://jfin-swufe.springeropen.com/articles/10.1186/s40854-019-0131-7
+- https://jfin-swufe.springeropen.com/articles/10.1186/s40854-019-0131-7
