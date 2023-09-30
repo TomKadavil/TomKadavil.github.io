@@ -8,21 +8,21 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Python showdown](/python)
+[data science](data_science/datascience)
 
 - My python skills and note
 
 <img src="images/python.png?raw=true" width="50"/>
 
 ---
-[Stock Market](/stock_market)
+[Stock Market](stock_market/stock_market)
 
 *my view on the stock market , interesting observations i have made*
 
 <img src="images/stock_market.avif?raw=true" width="50"/>
 
 ---
-[Back testing](/back_testing)
+[Back testing](back_testing/back_testing)
 
 *How i approach back testing*
 
