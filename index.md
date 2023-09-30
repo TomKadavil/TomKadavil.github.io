@@ -11,21 +11,19 @@
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Python showdown](/python)
-<img src="images/python.png?raw=true"/>
+<img src="images/python.png?raw=true" width="50"/>
 
 ---
 [Stock Market](/stock_market)
-<img src="images/stock_market.avif?raw=true"/>
+<img src="images/stock_market.avif?raw=true" width="50"/>
 
 ---
 [Back testing](/back_testing)
-<img src="images/back_testing.png?raw=true"/>
+<img src="images/back_testing.png?raw=true" width="50"/>
 
 ---
 
