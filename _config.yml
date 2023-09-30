@@ -1,21 +1,23 @@
 title: Tom A Kadavil # your name (or website title) here
 logo: "/images/logo_mini.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br>NIT Calicut EEE <br>
   
-  NIT Calicut EEE 
   
-  <br><br>
   
-  Stock market analysis with good quant skills 
+  <br>Stock market analysis with good quant skills <br>
+  
+  
+  
+  <br>CA / CPA enthusiast  <br>
+
+  
   
   <br><br>
 
-  CA / CPA enthusiast  
-  
-  <br><br>
+  <a href="https://www.linkedin.com/in/tom-a-kadavil-b87284207">View My LinkedIn Profile</a> 
 
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
