@@ -2,12 +2,8 @@
 
 ---
 
-### Category Name 1 
+### My blogs
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [data science](data_science/datascience)
 
 - My python skills and notes . I use a lot of mindmap's to remember concepts . With our limited human memory its crucial for us to structure information to be useful .
@@ -38,6 +34,10 @@
 
 ---
 
+[Slide](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 
 
 ### Side projects and hobbies
