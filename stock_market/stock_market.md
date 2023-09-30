@@ -27,3 +27,6 @@ uptrend (prices go up), downtrend (prices go down), and sideways (prices move wi
 Support and resistance levels show potential price reversals. Fibonacci retracement uses specific
 ratios to find support and resistance. While technical analysis can be helpful, it can&#39;t predict prices
 with certainty. So risk management strategies are an integral part of technical analysis.
+
+![](Financial-Market-mind-map.png)
+![](investment-mind-map.jpeg)
