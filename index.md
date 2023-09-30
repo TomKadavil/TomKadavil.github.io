@@ -34,7 +34,7 @@
 
 ---
 
-[Slide](/pdf/sample_presentation.pdf)
+[Slide](/pdf/Seminar-AI-Final.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
