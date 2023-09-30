@@ -20,6 +20,8 @@ We employ statistical modelling such as
 
     - PCA , principal component analysis 
 
+        ![](pca.webp)
+
 
 Recently with the advent of Neural Networks and deep learning . I came accross a couple of papers that seem to indicate the use of such kind of techniques to be employed in the purpose of predictions .
 
