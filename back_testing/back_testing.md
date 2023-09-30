@@ -24,6 +24,8 @@ hosted by the trading platform.
 
 - **The autocovariance function (ACF)** is a very useful statistical tool for studying the dependence properties of a time series. The ACF is our formal tool for detecting non-stationarity in a time series. Plotting and visualizing the correlation structure of the series is the second step after plotting and visualizing the series itself.
 
+        ![](autocorrelation_FFT.jpeg)
+        ![](autocorrelation_DTFT.png)
 
 ## Neural nets for predictions 
 
