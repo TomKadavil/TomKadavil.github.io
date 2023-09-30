@@ -14,17 +14,25 @@ hosted by the trading platform.
 
 We employ statistical modelling such as 
 
-    - Regression 
+    - **Regression** 
 
-    - Clustering 
+    - **Clustering** 
 
-    - PCA , principal component analysis 
+    - **PCA , principal component analysis** 
 
         ![](pca.jpeg)
 
+    - **The autocovariance function (ACF)** is a very useful statistical tool for studying the dependence properties of a time series. The ACF is our formal tool for detecting non-stationarity in a time series. Plotting and visualizing the correlation structure of the series is the second step after plotting and visualizing the series itself.
+
+
+## Neural nets for predictions 
 
 Recently with the advent of Neural Networks and deep learning . I came accross a couple of papers that seem to indicate the use of such kind of techniques to be employed in the purpose of predictions .
 
 Deep learning is involved a lot in the modern quantitive financial field. The recurrent neural network, to be specific, the Long Short Term Memory(LSTM) network outperforms others architecture since it can take advantage of predicting time series (or sequentially) involved result with a specific configuration.
+
+    a simple RNN with 2 LSTM layers. The architecture is:
+
+    *LSTM --> Dropout --> LSTM --> Dropout --> Fully-Conneted(Dense)*
 
     - https://jfin-swufe.springeropen.com/articles/10.1186/s40854-019-0131-7
