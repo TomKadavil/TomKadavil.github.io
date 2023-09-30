@@ -10,7 +10,7 @@
 ---
 [data science](data_science/datascience)
 
-- My python skills and note
+- My python skills and notes . I use a lot of mindmap's to remember concepts . With our limited human memory its crucial for us to structure information to be useful .
 
 <img src="images/python.png?raw=true" width="50"/>
 

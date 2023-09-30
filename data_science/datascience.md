@@ -2,6 +2,19 @@
 
 *this is a broad field which is relevent for any kind of analytical work these days*
 
+![](datascience_mindmap.jpeg)
+
+
+AI is currently split into two main categories 
+
+- Classical Machine Learning 
+
+![](mind_map_machine_learning_classical.jpeg)
+
+
+- Deep Neural networks 
+
+![](neural_networks.png)
 
 ## brief level overview of what is data science 
 
@@ -28,7 +41,13 @@
 
 - **modeling & prediction** 
 
+
+
     - sklearn
+
+    ![](scikit-learn_mindmap.png)
+
+
     
 
 
