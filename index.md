@@ -47,6 +47,16 @@
 
 ---
 
+
+
+[Indian tax system](taxation/taxation)
+
+*more mind maps for Indian tax system*
+
+<img src="images/algorithmic_trading.png?raw=true" width="50"/>
+
+---
+
 [Seminar-AI-Final](/pdf/Seminar-AI-Final.pdf)
 
 This is a ppt i made for a AI seminar at CA articleship
