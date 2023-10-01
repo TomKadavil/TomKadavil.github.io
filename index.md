@@ -57,7 +57,7 @@
 
 ---
 
-[Indian CA](Charted_accountant/CA)
+[Indian CA](Chartered_accountant/CA)
 
 *more mind maps for Indian CA*
 
