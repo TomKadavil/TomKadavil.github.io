@@ -4,11 +4,11 @@
 
 ### WORK EXPERIENCE 
 
-- Infosys, Thiruvananthapuram as a Test Engineer
+- **Infosys**, Thiruvananthapuram as a Test Engineer
 - CA  preparation course 
     Completed 3 years of mandatory articleship for CA at 
 
-- Sanu Joseph & Associates, Pala. one year of experience .
+- **Sanu Joseph & Associates**, Pala. one year of experience .
 
     - Handled statutory audits for healthcare sector 
     - internal audit for food processing and export industry.
@@ -52,6 +52,14 @@
 [Indian tax system](taxation/taxation)
 
 *more mind maps for Indian tax system*
+
+<img src="images/algorithmic_trading.png?raw=true" width="50"/>
+
+---
+
+[Indian CA](Charted_accountant/CA)
+
+*more mind maps for Indian CA*
 
 <img src="images/algorithmic_trading.png?raw=true" width="50"/>
 
