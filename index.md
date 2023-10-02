@@ -5,7 +5,7 @@
 ### WORK EXPERIENCE 
 
 - **Infosys**, Thiruvananthapuram as a Test Engineer
-- **CA** 
+- **CA Inter Qualified(IPCC)** 
     - Completed 3 years of mandatory articleship for CA at 
     - Finished *Inter*
 
