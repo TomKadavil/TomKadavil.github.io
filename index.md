@@ -6,8 +6,8 @@
 
 - **Infosys**, Thiruvananthapuram as a Test Engineer
 - **CA** 
-    1. Completed 3 years of mandatory articleship for CA at 
-    2. Finished *Inter*
+    - Completed 3 years of mandatory articleship for CA at 
+    - Finished *Inter*
 
 
 - **Sanu Joseph & Associates**, Pala. one year of experience .
