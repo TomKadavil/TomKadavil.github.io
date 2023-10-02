@@ -5,16 +5,16 @@
 ### WORK EXPERIENCE 
 
 - **Infosys**, Thiruvananthapuram as a Test Engineer
-- **CA Inter Qualified(IPCC)** 
-    - Completed 3 years of mandatory articleship for CA at 
-    - Finished *Inter*
+- **CA course** 
+    - Passed CA Inter(IPCC).
+    - Completed 3 years of mandatory articleship for CA at Sanu Joseph & Associates, Pala.
+    - Handled statutory audits for a company in healthcare sector. 
+    - Internal audit for food processing and export industry.
+    - Completed inventory management and inventory level setting for a hospital.
 
-
-- **Sanu Joseph & Associates**, Pala. one year of experience .
-
-    - Handled statutory audits for healthcare sector 
-    - internal audit for food processing and export industry.
-    - Have completed inventory management and inventory level setting for a hospital.
+- **Sanu Joseph & Associates**, Pala one year of experience.
+    - Continued to work for the firm for 1 more year after articleship.  
+    
 
 
 ### My blogs
