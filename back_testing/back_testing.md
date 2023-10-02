@@ -41,7 +41,7 @@ hosted by the trading platform.
 
 - **Random walk** , 
 
-
+![](Random-Walk-Theory-main-image.png)
 - https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm
 
 ## Neural nets for predictions 
