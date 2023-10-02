@@ -34,6 +34,16 @@ hosted by the trading platform.
 
 ![](autocorrelation_DTFT.png)
 
+- https://people.duke.edu/~rnau/411rand.htm
+- https://www.investopedia.com/terms/r/randomwalktheory.asp#:~:text=Key%20Takeaways,to%20predict%20its%20future%20movement
+
+
+
+- **Random walk** , 
+
+
+- https://www.mit.edu/~kardar/teaching/projects/chemotaxis(AndreaSchmidt)/random.htm
+
 ## Neural nets for predictions 
 
 Recently with the advent of Neural Networks and deep learning . I came accross a couple of papers that seem to indicate the use of such kind of techniques to be employed in the purpose of predictions .

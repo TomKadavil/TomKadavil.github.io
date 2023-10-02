@@ -5,8 +5,10 @@
 ### WORK EXPERIENCE 
 
 - **Infosys**, Thiruvananthapuram as a Test Engineer
-- CA  preparation course 
-    Completed 3 years of mandatory articleship for CA at 
+- **CA  preparation course** 
+    1> Completed 3 years of mandatory articleship for CA at 
+    2> Finished *Inter*
+
 
 - **Sanu Joseph & Associates**, Pala. one year of experience .
 
